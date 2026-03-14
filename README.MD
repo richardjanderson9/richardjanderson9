@@ -27,20 +27,20 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-	<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
-	<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
-	<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a>
-	<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a>
-	<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-	<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-	<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-	<a href="https://www.elastic.co/kibana" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/></a>
-	<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
-	<a href="https://mariadb.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
-	<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
-	<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-	<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
+	<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+	<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
 </p>
 
 ---
@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-	Made with <a href="https://rahuldkjain.github.io/github-profile-readme-generator/" target="_blank">GitHub Profile README Generator</a>
+	Made with [GitHub Profile README Generator](https://rahuldkjain.github.io/github-profile-readme-generator/)
 </p>
