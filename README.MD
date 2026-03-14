@@ -1,20 +1,64 @@
+
 # Hi 👋, I'm Richard Anderson
 
-### Cyber Secutrity Guy with one to many projects and no where to put them.
-
-- 👨‍💻 All of my projects are available at **[https://richardjanderson.uk](https://richardjanderson.uk)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/richardjanderson9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="richardjanderson9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/richardjanderson9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardjanderson9" height="30" width="40" /></a>
+<p align="center">
+	<img src="https://img.shields.io/badge/Theme-Dark%20Mode-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dark Mode"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+## Cyber Security Guy with too many projects and nowhere to put them.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richardjanderson9&show_icons=true&locale=en&layout=compact" alt="richardjanderson9" /></p>
+- 👨‍💻 All of my projects are available at [richardjanderson.uk](https://richardjanderson.uk)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richardjanderson9&show_icons=true&locale=en" alt="richardjanderson9" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richardjanderson9&" alt="richardjanderson9" /></p>
+### Connect with me
+
+<p align="left">
+	<a href="https://github.com/richardjanderson9" target="_blank">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+	</a>
+	<a href="https://linkedin.com/in/richardjanderson9" target="_blank">
+		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+	</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+	<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
+	<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
+	<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a>
+	<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a>
+	<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
+	<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
+	<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
+	<a href="https://www.elastic.co/kibana" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/></a>
+	<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
+	<a href="https://mariadb.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/></a>
+	<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
+	<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+	<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardjanderson9&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=richardjanderson9&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=richardjanderson9&theme=dark" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+	Made with <a href="https://rahuldkjain.github.io/github-profile-readme-generator/" target="_blank">GitHub Profile README Generator</a>
+</p>
