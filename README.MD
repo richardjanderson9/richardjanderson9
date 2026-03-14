@@ -7,17 +7,17 @@
 
 ## Cyber Security Guy with too many projects and nowhere to put them.
 
-- 👨‍💻 All of my projects are available at [richardjanderson.uk](https://richardjanderson.uk)
+- 👨‍💻 All of my projects are available at <a href="https://richardjanderson.uk" target="_blank" rel="noopener noreferrer">richardjanderson.uk</a>
 
 ---
 
 ### Connect with me
 
 <p align="left">
-	<a href="https://github.com/richardjanderson9" target="_blank">
+	<a href="https://github.com/richardjanderson9" target="_blank" rel="noopener noreferrer">
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
 	</a>
-	<a href="https://linkedin.com/in/richardjanderson9" target="_blank">
+	<a href="https://linkedin.com/in/richardjanderson9" target="_blank" rel="noopener noreferrer">
 		<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
 	</a>
 </p>
@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-	Made with [GitHub Profile README Generator](https://rahuldkjain.github.io/github-profile-readme-generator/)
+	Made with <a href="https://rahuldkjain.github.io/github-profile-readme-generator/" target="_blank" rel="noopener noreferrer">GitHub Profile README Generator</a>
 </p>
